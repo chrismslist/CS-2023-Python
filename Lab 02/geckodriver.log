@@ -1,0 +1,177 @@
+1662325605034	geckodriver	INFO	Listening on 127.0.0.1:55467
+1662325608093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilelM3reX"
+1662325608657	Marionette	INFO	Marionette enabled
+1662325608666	Marionette	INFO	Listening on port 55484
+Read port: 55484
+WebDriver BiDi listening on ws://localhost:55468
+1662325608878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilelM3reX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55468/devtools/browser/5dfd3ec9-f440-4d20-b5e5-27ab613b79d9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325618550	Marionette	INFO	Stopped listening on port 55484
+[Parent 9388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662325629460	geckodriver	INFO	Listening on 127.0.0.1:55754
+1662325632516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilePm0zMe"
+1662325633090	Marionette	INFO	Marionette enabled
+1662325633095	Marionette	INFO	Listening on port 55767
+WebDriver BiDi listening on ws://localhost:55755
+Read port: 55767
+1662325633260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilePm0zMe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55755/devtools/browser/d7d976eb-09ce-4e14-873d-fe2306a507fb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325653874	Marionette	INFO	Stopped listening on port 55767
+[Parent 18168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 18168, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662325657939	geckodriver	INFO	Listening on 127.0.0.1:55971
+1662325660964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile1Ar9UB"
+1662325661499	Marionette	INFO	Marionette enabled
+1662325661506	Marionette	INFO	Listening on port 55982
+WebDriver BiDi listening on ws://localhost:55972
+Read port: 55982
+1662325661722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile1Ar9UB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55972/devtools/browser/6c24b2b9-0e9a-42e1-8521-6f91bb654ddc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325711630	Marionette	INFO	Stopped listening on port 55982
+1662325739726	geckodriver	INFO	Listening on 127.0.0.1:56075
+1662325742753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile6GesQY"
+1662325743435	Marionette	INFO	Marionette enabled
+1662325743444	Marionette	INFO	Listening on port 56088
+WebDriver BiDi listening on ws://localhost:56076
+Read port: 56088
+1662325743719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile6GesQY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56076/devtools/browser/923e1865-0a45-47ee-9404-2f7838adde87
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325763637	Marionette	INFO	Stopped listening on port 56088
+1662325789698	geckodriver	INFO	Listening on 127.0.0.1:56160
+1662325792738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileRYCmEm"
+1662325793204	Marionette	INFO	Marionette enabled
+1662325793210	Marionette	INFO	Listening on port 56174
+WebDriver BiDi listening on ws://localhost:56161
+Read port: 56174
+1662325793498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileRYCmEm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56161/devtools/browser/c91dec7d-eb51-4bca-a53c-a5f51d25a070
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325927360	Marionette	INFO	Stopped listening on port 56174
+[Parent 10408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662325950470	geckodriver	INFO	Listening on 127.0.0.1:56367
+1662325953512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileoGqBOb"
+1662325954030	Marionette	INFO	Marionette enabled
+1662325954036	Marionette	INFO	Listening on port 56381
+WebDriver BiDi listening on ws://localhost:56368
+Read port: 56381
+1662325954184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileoGqBOb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56368/devtools/browser/ae388e62-9e91-430f-a282-4f4472ab18e2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662325977349	Marionette	INFO	Stopped listening on port 56381
+1662326023475	geckodriver	INFO	Listening on 127.0.0.1:56466
+1662326026535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileRaGyhx"
+1662326027031	Marionette	INFO	Marionette enabled
+1662326027038	Marionette	INFO	Listening on port 56476
+WebDriver BiDi listening on ws://localhost:56467
+Read port: 56476
+1662326027222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileRaGyhx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56467/devtools/browser/cfb98b0f-558e-476f-af3b-d5f839265535
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662326032388	Marionette	INFO	Stopped listening on port 56476
+1662326088280	geckodriver	INFO	Listening on 127.0.0.1:56553
+1662326091317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilesReNa0"
+1662326091816	Marionette	INFO	Marionette enabled
+1662326091822	Marionette	INFO	Listening on port 56566
+WebDriver BiDi listening on ws://localhost:56554
+Read port: 56566
+1662326092130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilesReNa0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56554/devtools/browser/53127e89-4a82-473a-9a78-37cf3f8826f8
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662326136749	Marionette	INFO	Stopped listening on port 56566
+1662326224587	geckodriver	INFO	Listening on 127.0.0.1:56839
+1662326227630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileAgfsMA"
+1662326228151	Marionette	INFO	Marionette enabled
+1662326228159	Marionette	INFO	Listening on port 56850
+WebDriver BiDi listening on ws://localhost:56840
+Read port: 56850
+1662326228347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofileAgfsMA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56840/devtools/browser/24dd3a68-0127-4ec6-905f-f5b0eddb93bb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1662326247326	Marionette	INFO	Stopped listening on port 56850
+[Parent 10836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662326282447	geckodriver	INFO	Listening on 127.0.0.1:56960
+1662326285478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile5Cvj1Y"
+1662326286007	Marionette	INFO	Marionette enabled
+1662326286013	Marionette	INFO	Listening on port 56972
+WebDriver BiDi listening on ws://localhost:56961
+Read port: 56972
+1662326286170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofile5Cvj1Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56961/devtools/browser/529b6fd8-4d59-4d13-a5f5-d4557998023c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+1662326399867	Marionette	INFO	Stopped listening on port 56972
+[Parent 2432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662326421250	geckodriver	INFO	Listening on 127.0.0.1:57140
+1662326424301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilebMmQUD"
+1662326424804	Marionette	INFO	Marionette enabled
+1662326424809	Marionette	INFO	Listening on port 57153
+WebDriver BiDi listening on ws://localhost:57141
+Read port: 57153
+1662326425097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cgrab\\AppData\\Local\\Temp\\rust_mozprofilebMmQUD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57141/devtools/browser/0225a6a5-4f8c-4017-82c1-39694bf342fc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 839: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3if1i4/yD/l/en_US/1qrMfbQmKwx.js?_nc_x=Ij3Wp8lg5Kz, line 1175: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yp/l/en_US/uweNKUJeVTU.js?_nc_x=Ij3Wp8lg5Kz, line 41: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662326676927	Marionette	INFO	Stopped listening on port 57153
+[Parent 2940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
